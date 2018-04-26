@@ -8,5 +8,5 @@ import { ProductService } from './product/product-services';
   providers:[ProductService]
 })
 export class AppComponent {
-  title = 'Angular: Getting Started';
+  title = 'Angular:Demo';
 }
